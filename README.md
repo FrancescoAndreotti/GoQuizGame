@@ -1,1 +1,1 @@
-# GoQuizGame
+# Gophercises QuizGame
